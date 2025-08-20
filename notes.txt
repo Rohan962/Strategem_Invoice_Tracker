@@ -1,0 +1,15 @@
+Customer Form
+- Should the customer details be visible (CRUD)
+- Create a side navbar - Cust Details, Add New Customer
+
+
+Invoice Management
+- From the group of companies, if there is a contract agreement, then create an invoice for the same
+
+
+
+
+
+-- Features (What we expect from Software)
+Filter Invoices based on criteria - invoice no/ date, 
+
