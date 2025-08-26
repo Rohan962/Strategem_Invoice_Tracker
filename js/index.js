@@ -4,6 +4,6 @@ $(document).ready(function() {
     });
 
     $('#customerBtn').click(function() {
-    window.location.href = './customer-form.php'; // Replace with your actual customer URL
+    window.location.href = './sidenav.php'; // Replace with your actual customer URL
     });
 });
